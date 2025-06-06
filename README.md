@@ -1,1 +1,5 @@
-# Time-Sheet-Of-Employee
+
+### TK107847-TIME SHEET OF EMPLOYEE
+#### FRONTEND:REACT JS
+#### BACKEND:Spring Boot
+#### DATABASE: MYSQL
